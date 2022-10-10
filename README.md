@@ -1,4 +1,4 @@
-[![Header](https://github.com/VolodymyrCheban/VolodymyrCheban/blob/main/image.png)]
+![Header](https://github.com/VolodymyrCheban/VolodymyrCheban/blob/main/image.png)
 
 # 👋👋 **Hello, I am Volodymyr** 
 I am a motivated and detail-oriented QA engineer with testing experience. I am looking for an entry level position to use my skills in testing, troubleshooting, solving various problems and helping to complete projects on time.
