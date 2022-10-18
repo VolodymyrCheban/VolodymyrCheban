@@ -25,7 +25,7 @@ ___________
 - [Bug-Reports](https://github.com/VolodymyrCheban/Bug-Reports.git)
 - [SQL Queries](https://github.com/VolodymyrCheban/SQL-Queries.git)
 - [Postman Collections](https://github.com/VolodymyrCheban/Postman-Collections.git)
-- [Apache Jmeter](https://github.com/VolodymyrCheban/Checklists.git)
+- [Apache JMeter Requests](https://github.com/VolodymyrCheban/Apache-Jmeter)
 
 ### **Contaсts**
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Che_Volodymyr)
