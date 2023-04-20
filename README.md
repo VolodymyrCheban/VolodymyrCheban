@@ -4,7 +4,7 @@
 I am a motivated and detail-oriented QA engineer with testing experience. I am looking for an entry level position to use my skills in testing, troubleshooting, solving various problems and helping to complete projects on time.
 In previous positions, I received high marks for analytical abilities. I have considerable experience in communicating with people and working with documentation, which will help me in my new position. Team skills, self-learning and independence in work are my strong points. 
 ___________
-# [My CV](https://drive.google.com/file/d/1QyHaoAcW-7WobAXOa0GKoe-bg4Sm-RDp/view?usp=sharing)
+# [My CV](https://drive.google.com/file/d/13IZml3Rhd0Kpa3AupsbBeqnqbIDI9RoK/view?usp=share_link)
 ___________
 
 ### **Tools**
